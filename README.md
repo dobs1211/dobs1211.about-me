@@ -1,2 +1,2 @@
 # about-me
-Initial project with Thinkful using html
+Initial project with Thinkful. Intro into responsive, html, css
